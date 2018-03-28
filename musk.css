@@ -1,0 +1,40 @@
+<style type="text/css">
+    h1 {
+        color: red;
+        text-decoration: underline;
+        text-align: center;  
+    }
+    h3{
+        text-align: right;
+        text-decoration: underline;
+    }
+    P{
+        color: blue;
+        text-align: right;
+    }
+    .leftbox{
+        float: left;
+    }
+    #child.h3{
+        text-align: center;
+        text-decoration: underline;
+    }
+    #child.p{
+        text-align: right;
+        color: blue;
+    }
+    #Comfau>h3{
+         text-align: center;
+        text-decoration: underline;
+    }
+    .centerbox{
+        text-align: center;
+    }
+    img {
+        float: left;
+    }
+    #zip2 
+    li:nth-child(odd){background; red;}
+    li:nth-child(odd){background; red;}
+</style> 
+   
